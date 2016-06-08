@@ -16,7 +16,7 @@ ITTY = {
 ##
 # Authorization token for Spark. Required for working with Spark's API.
 #
-AUTH = "YmIyODQ2ZjQtOTc3Yy00NWFlLWEyNzUtZjM5MmQyNzM5ZWJlYjE4ZTIxZjMtNWEw"
+AUTH = "NDg2ZjMxYjAtMWYwNy00OGQzLWIxNjUtMzNhNGM4YmY2MmY4YjY3NGYxNTktYzA0"
 
 ##
 # Request header for Spark Web API
